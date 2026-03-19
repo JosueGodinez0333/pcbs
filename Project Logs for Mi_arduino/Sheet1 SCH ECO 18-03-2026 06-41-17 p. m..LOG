@@ -1,0 +1,6 @@
+Remove Pin=F1-1 From Net=USBVCC
+Remove Pin=IOH1-7 From Net=GND
+Remove Pin=POWER1-4 From Net=+3V3
+Remove Pin=POWER1-8 From Net=VIN
+Remove Pin=T1-1 From Net=USBVCC
+Remove Pin=ZU1-21 From Net=AREF
