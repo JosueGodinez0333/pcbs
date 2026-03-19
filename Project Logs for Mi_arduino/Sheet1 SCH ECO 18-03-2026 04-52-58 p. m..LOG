@@ -1,0 +1,3 @@
+Add Pin To Net: Pin=RN?A-8 Old Net=NetRN?_8 New Net=VIN
+Add Pin To Net: Pin=U?A-2 Old Net=NetU?_2 New Net=+3V3
+Add Pin To Net: Pin=U?B-5 Old Net=NetU?_5 New Net=SCK
